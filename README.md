@@ -1,5 +1,7 @@
 # You need to enter your API key in "src\env.js" file. You need to fetch api only from [here](http://omdbapi.com/apikey.aspx)
 
+## This App is built only for Mobile and not Tablet or Laptop or Desktop
+
 ## Project setup
 ```
 yarn install
